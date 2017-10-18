@@ -1,0 +1,28 @@
+body {
+    background-color: taupe;
+}
+
+header {
+  padding: 5px;
+  margin-bottom: 5px;
+  color: #333;
+  background: #ccc;
+  font-size: 25px;
+}
+
+p. h2,{
+	font-family: 'Lobster', cursive;
+}
+
+a {
+  font-size: 25px;
+}
+a:hover {
+  background-color: lightgrey;
+}
+a:focus {
+  background-color: grey;
+}
+a:active {
+  background-color: white;
+}
